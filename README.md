@@ -4,6 +4,7 @@ Esto es un script para convertir un conjunto de imágenes en un pdf
 # Preparativos
 Se requiere de tener python instalado antes para este script.
 Ejecuta el script install para instalar la libreria necesaria para ello.
+Es necesario que creais dos carpetas en este directorio, llamadas "img" y "doc".
 
 # Cómo fúnciona?
 Para que todo funcione correctamente tendréis que dejar en la carpeta "img" todas las imágenes 
